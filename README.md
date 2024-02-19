@@ -1,4 +1,4 @@
-# Repositorio do artigo de realidade aumentada sobre o OTTO para ERI 2023 
+# Repositorio do artigo de realidade aumentada sobre o OTTO
 
 Este código faz parte do Projeto de Iniciação Científica da Universidade Federal de Mato Grosso (UFMT), é a segunda iteração do projeto de Realidade Aumentada Interativa que permite exibir e interajir com um modelo 3D do ROBO OTTO em um ambiente real através des dispositivos compatíveis. 
 
