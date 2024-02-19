@@ -4,6 +4,10 @@ Este código faz parte do Projeto de Iniciação Científica da Universidade Fed
 
 ![Imagem_otto](https://github.com/ottoUFMT/Realidade_aumentada_otto_ufmt/assets/114492354/aa48272f-f876-4ad6-a3df-2673e51bbcb7)
 
+## Link 
+
+[Otto AR](https://aniusch.github.io/ottoDev/)
+
 ## Referência
 
  - [Instagram do FATA](https://www.instagram.com/fataufmt/)
