@@ -1,0 +1,12 @@
+{
+  "name": "OttoAR",
+  "version": "1.0.0",
+  "description": "OttoAR",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "three": "^0.160.1",
+    "webvr-polyfill": "^0.10.12"
+  }
+}
