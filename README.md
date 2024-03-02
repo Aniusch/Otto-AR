@@ -16,4 +16,4 @@ Este código faz parte do Projeto de Iniciação Científica da Universidade Fed
 
 ## Autor
 
-- [@Aniusch](https://github.com/Aniusch)
+- [@aniusch](https://github.com/Aniusch)
